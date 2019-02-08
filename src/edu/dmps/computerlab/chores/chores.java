@@ -1,5 +1,4 @@
 package edu.dmps.computerlab.chores;
-
 import java.util.Scanner;
 
 public class chores {

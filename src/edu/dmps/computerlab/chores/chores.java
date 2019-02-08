@@ -15,7 +15,7 @@ public class chores {
         int dogWalkCost = 5;
         int totalEarned = lawnsMowed * lawnCost + dogsWalked * dogWalkCost;
 
-        System.out.println("You earned a total of $" + totalEarned + " from doing chores this week!");
+        System.out.println("You earned a total of $" + totalEarned + " from doing chores this week. Good Job!");
 
     }
 }
